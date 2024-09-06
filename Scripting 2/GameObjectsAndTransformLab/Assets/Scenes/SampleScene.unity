@@ -328,6 +328,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ChildTransform: {fileID: 445702801}
+  speed: 3.35
+  pingAmount: 3
 --- !u!4 &1746837915
 Transform:
   m_ObjectHideFlags: 0
